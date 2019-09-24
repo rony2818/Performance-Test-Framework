@@ -1,0 +1,5 @@
+https://kite-dev-it-vn.hito-link.jp/#/employee/detail/mypage/hkpbe002 MyPage
+https://kite-dev-it-vn.hito-link.jp/#/achievement/employee/hkpbe002 CheckIn
+https://kite-dev-it-vn.hito-link.jp/#/evaluation/hkpbe000 Input
+https://kite-dev-it-vn.hito-link.jp/#/evaluation/manage/hkpbe000 Target
+
